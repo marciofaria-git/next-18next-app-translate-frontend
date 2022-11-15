@@ -1,4 +1,5 @@
 import styles from '../styles/Home.module.scss'
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 
 export default function Home() {
   return (
@@ -7,3 +8,14 @@ export default function Home() {
     </section>
   )
 }
+
+export async function getStaticProps({locale}:any){
+ 
+  return {
+    props:{
+      ...(await serverSideTranslations(locale,['common'])),
+
+    }
+  }
+}
+
