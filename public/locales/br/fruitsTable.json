@@ -1,0 +1,53 @@
+{
+  "fruitsTable":{
+    "fruitName":"Nome",
+    "fruitCalories":"Calorias",
+      "fruitProtein":"Proteina",
+      "fruitCarbs":"Carboidratos",
+      "FruitFiber":"Fibra",
+      "FruitFat":"Gordura",
+    "fruits":{
+      "pineapple":{
+        "name":"Abacaxi",
+        "calories":"48",
+        "protein":"0,54 g",
+        "carbs":"12,63 g",
+        "fiber":"1,4 g",
+        "Fat":"0,12 g"
+      },
+      "blackberry":{
+        "name":"Amora",
+        "calories":"43",
+        "protein":"1,39 g",
+        "carbs":"9,61 g",
+        "fiber":"5,3 g",
+        "Fat":"0,49 g"
+      },
+      "avocado":{
+        "name":"Abacate",
+        "calories":"160",
+        "protein":"2 g",
+        "carbs":"8,53 g",
+        "fiber":"6,7 g",
+        "Fat":"14,66 g"
+      },
+      "apple":{
+        "name":"Maçã",
+        "calories":"52",
+        "protein":"0,26 g",
+        "carbs":"13,81 g",
+        "fiber":"2,4 g",
+        "Fat":"0,17 g"
+      },
+      "watermelon":{
+        "name":"Melancia",
+        "calories":"30",
+        "protein":"0,61 g",
+        "carbs":"7,55 g",
+        "fiber":"0,4 g",
+        "Fat":"0,15 g"
+      }
+   
+    }
+  }
+}
