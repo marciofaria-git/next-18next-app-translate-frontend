@@ -1,51 +1,51 @@
 {
   "fruitsTable": {
-    "fruitName": "Name",
     "fruitCalories": "Calories",
-    "fruitProtein": "Protein",
     "fruitCarbs": "Carbs",
-    "fruitFiber": "Fiber",
     "fruitFat": "Fat",
+    "fruitFiber": "Fiber",
+    "fruitName": "Name",
+    "fruitProtein": "Protein",
     "fruits": {
-      "pineapple": {
-        "name": "Pineapple",
-        "calories": "48",
-        "protein": "0,54 g",
-        "carbs": "12,63 g",
-        "fiber": "1,4 g",
-        "fat": "0,12 g"
-      },
-      "blackberry": {
-        "name": "Blackberry",
-        "calories": "43",
-        "protein": "1,39 g",
-        "carbs": "9,61 g",
-        "fiber": "5,3 g",
-        "fat": "0,49 g"
+      "apple": {
+        "calories": "52",
+        "carbs": "13,81 g",
+        "fat": "0,17 g",
+        "fiber": "2,4 g",
+        "name": "Apple",
+        "protein": "0,26 g"
       },
       "avocado": {
-        "name": "Avocado",
         "calories": "160",
-        "protein": "2 g",
         "carbs": "8,53 g",
+        "fat": "14,66 g",
         "fiber": "6,7 g",
-        "fat": "14,66 g"
+        "name": "Avocado",
+        "protein": "2 g"
       },
-      "apple": {
-        "name": "Apple",
-        "calories": "52",
-        "protein": "0,26 g",
-        "carbs": "13,81 g",
-        "fiber": "2,4 g",
-        "fat": "0,17 g"
+      "blackberry": {
+        "calories": "43",
+        "carbs": "9,61 g",
+        "fat": "0,49 g",
+        "fiber": "5,3 g",
+        "name": "Blackberry",
+        "protein": "1,39 g"
+      },
+      "pineapple": {
+        "calories": "48",
+        "carbs": "12,63 g",
+        "fat": "0,12 g",
+        "fiber": "1,4 g",
+        "name": "Pineapple",
+        "protein": "0,54 g"
       },
       "watermelon": {
-        "name": "Watermelon",
         "calories": "30",
-        "protein": "0,61 g",
         "carbs": "7,55 g",
+        "fat": "0,15 g",
         "fiber": "0,4 g",
-        "fat": "0,15 g"
+        "name": "Watermelon",
+        "protein": "0,61 g"
       }
     }
   }
